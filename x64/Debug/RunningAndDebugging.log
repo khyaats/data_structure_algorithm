@@ -1,0 +1,189 @@
+﻿  capital_city.cpp
+  finding_minimum_value.cpp
+  friendshipQuestionaire.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\friendshipQuestionaire.cpp(19,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\friendshipQuestionaire.cpp(20,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gridionGauntlet.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\gridionGauntlet.cpp(50,24): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\gridionGauntlet.cpp(51,28): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\gridionGauntlet.cpp(69,24): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+  happy_dog_happy_life.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\happy_dog_happy_life.cpp(5,9): error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory
+  lazyPiano.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\lazyPiano.cpp(9,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  making_new_friends.cpp
+  met.cpp
+  moving_to_the_ends.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\moving_to_the_ends.cpp(36,38): warning C4129: 's': unrecognized character escape sequence
+  pallindromic_partition.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\pallindromic_partition.cpp(8,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\pallindromic_partition.cpp(9,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\pallindromic_partition.cpp(38,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\pallindromic_partition.cpp(63,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RunningAndDebugging.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\RunningAndDebugging.cpp(19,23): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+  seating_arrangement.cpp
+  security_system.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\security_system.cpp(66,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  selectCourses.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\selectCourses.cpp(6,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  share_candies.cpp
+  ski.cpp
+  Source.cpp
+  Source1.cpp
+  Source2.cpp
+  Source3.cpp
+  Generating Code...
+  Compiling...
+  Source4.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(10,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(22,15): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(27,26): error C2059: syntax error: ':'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(27,47): error C2143: syntax error: missing ';' before '{'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(28,31): error C2065: 'w': undeclared identifier
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(28,44): error C2065: 'v': undeclared identifier
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(29,26): error C2065: 'v': undeclared identifier
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(29,45): error C2065: 'w': undeclared identifier
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(30,45): error C2065: 'v': undeclared identifier
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\Source4.cpp(30,49): error C2065: 'v': undeclared identifier
+  artistic_swimming.cpp
+  number_of_candies.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\number_of_candies.cpp(14,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  secret_message.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,8): error C2665: 'std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push': no overloaded function could convert all the argument types
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      could be 'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,8):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)': cannot convert argument 1 from 'initializer list' to 'std::tuple<std::string,int,int> &&'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,13):
+              Reason: cannot convert from 'initializer list' to 'std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,13):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      or       'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,8):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)': cannot convert argument 1 from 'initializer list' to 'const std::tuple<std::string,int,int> &'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,13):
+              Reason: cannot convert from 'initializer list' to 'const std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,13):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(19,8):
+      while trying to match the argument list '(initializer list)'
+  
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(22,15): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(27,13): error C2593: 'operator <<' is ambiguous
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(27,13):
+      while trying to match the argument list '(std::ostream, unknown-type)'
+  
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,16): error C2665: 'std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push': no overloaded function could convert all the argument types
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      could be 'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,16):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)': cannot convert argument 1 from 'initializer list' to 'std::tuple<std::string,int,int> &&'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,21):
+              Reason: cannot convert from 'initializer list' to 'std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,21):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      or       'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,16):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)': cannot convert argument 1 from 'initializer list' to 'const std::tuple<std::string,int,int> &'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,21):
+              Reason: cannot convert from 'initializer list' to 'const std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,21):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(33,16):
+      while trying to match the argument list '(initializer list)'
+  
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,16): error C2665: 'std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push': no overloaded function could convert all the argument types
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(374,10):
+      could be 'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,16):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(std::tuple<std::string,int,int> &&)': cannot convert argument 1 from 'initializer list' to 'std::tuple<std::string,int,int> &&'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,21):
+              Reason: cannot convert from 'initializer list' to 'std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,21):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\queue(369,10):
+      or       'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)'
+          C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,16):
+          'void std::priority_queue<std::tuple<std::string,int,int>,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>>,std::greater<void>>::push(const std::tuple<std::string,int,int> &)': cannot convert argument 1 from 'initializer list' to 'const std::tuple<std::string,int,int> &'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,21):
+              Reason: cannot convert from 'initializer list' to 'const std::tuple<std::string,int,int>'
+              C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,21):
+              use of undefined type 'std::tuple<std::string,int,int>'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(138,7):
+              see declaration of 'std::tuple<std::string,int,int>'
+      C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\secret_message.cpp(38,16):
+      while trying to match the argument list '(initializer list)'
+  
+  marathon.cpp
+  cake_cutting.cpp
+  speed_bump.cpp
+  symmetry_makes_perfect.cpp
+  water_refill.cpp
+  weightlifting.cpp
+C:\Users\EndUser\source\repos\RunningAndDebugging\RunningAndDebugging\weightlifting.cpp(9,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
